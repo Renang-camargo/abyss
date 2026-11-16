@@ -9,7 +9,7 @@ services:
     healthCheckPath: /api/health
     envVars:
       - key: NODE_VERSION
-        value: 22.12.0
+        value: 24
       # Opcional: só se o cliente também estiver na Vercel (separe vários por vírgula)
       # - key: CORS_ORIGIN
       #   value: https://seu-projeto.vercel.app
