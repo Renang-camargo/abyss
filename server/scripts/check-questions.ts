@@ -1,0 +1,20 @@
+import { fileURLToPath } from 'node:url';
+import { dirname, join } from 'node:path';
+import { QuestionBank } from '../src/questions/bank.js';
+
+const dir = join(dirname(fileURLToPath(import.meta.url)), '..', 'data', 'questions');
+const bank = QuestionBank.fromDirectory(dir);
+const issues = bank.check();
+const errors = issues.filter((i) => i.level === 'error');
+const warnings = issues.filter((i) => i.level === 'warning');
+for (const i of issues) console.log(`${i.level === 'error' ? '✖' : '⚠'} ${i.question}: ${i.message}`);
+const answers = bank.questions.reduce((s, q) => s + q.answers.length, 0);
+const aliases = bank.questions.reduce((s, q) => s + q.answers.reduce((t, a) => t + a.aliases.length, 0), 0);
+console.log(`\n${bank.questions.length} perguntas · ${bank.categories().length} nichos · ${answers} respostas · ${aliases} aliases`);
+for (const c of bank.categories()) console.log(`  ${c.name.padEnd(36)} ${c.questions}`);
+const tiers = [0, 0, 0, 0, 0];
+for (const q of bank.questions) for (const a of q.answers) tiers[a.tier - 1]!++;
+console.log(`raridades 1–5: ${tiers.join(' / ')}`);
+console.log(`revisão: ${bank.questions.filter((q) => q.review === 'revisado').length} revisadas, ${bank.questions.filter((q) => q.review === 'pendente').length} pendentes`);
+console.log(`${errors.length} erros, ${warnings.length} avisos`);
+process.exit(errors.length ? 1 : 0);

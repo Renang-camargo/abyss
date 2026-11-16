@@ -1,0 +1,24 @@
+{
+  "name": "abyss",
+  "private": true,
+  "version": "1.0.0",
+  "description": "ABYSS — jogo multiplayer de conhecimento onde respostas raras valem mais",
+  "workspaces": [
+    "shared",
+    "server",
+    "client"
+  ],
+  "engines": {
+    "node": ">=22.5"
+  },
+  "scripts": {
+    "dev": "npm run dev --workspace server",
+    "build": "npm run build --workspace client && npm run build --workspace server",
+    "start": "npm run start --workspace server",
+    "test": "npm run test --workspace server",
+    "typecheck": "npm run typecheck --workspace shared && npm run typecheck --workspace server && npm run typecheck --workspace client",
+    "questions:check": "npm run questions:check --workspace server",
+    "e2e": "python3 e2e/full_match.py",
+    "dev:client": "npm run dev --workspace client"
+  }
+}

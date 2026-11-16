@@ -1,0 +1,159 @@
+@import '@fontsource/unbounded/400.css';
+@import '@fontsource/unbounded/600.css';
+@import '@fontsource/unbounded/800.css';
+@import '@fontsource-variable/manrope';
+@import 'tailwindcss';
+
+@theme {
+  --color-ocean: #063b5c;
+  --color-deep: #021b33;
+  --color-abyss: #010d1c;
+  --color-cyan: #19d5e8;
+  --color-turq: #35e0c1;
+  --color-foam: #f3faff;
+  --color-violet: #7957d5;
+  --color-lantern: #ffb45c;
+  --color-coral: #ff6b7a;
+  --font-display: 'Unbounded', system-ui, sans-serif;
+  --font-sans: 'Manrope Variable', 'Manrope', system-ui, sans-serif;
+}
+
+:root {
+  color-scheme: dark;
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--color-abyss);
+  color: var(--color-foam);
+  font-family: var(--font-sans);
+  font-feature-settings: 'tnum' 0;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior: none;
+}
+
+.num {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Vidro discreto: só onde há texto sobre a água. */
+.glass {
+  background: linear-gradient(180deg, rgb(6 59 92 / 0.42), rgb(2 27 51 / 0.55));
+  border: 1px solid rgb(25 213 232 / 0.16);
+  backdrop-filter: blur(14px) saturate(1.2);
+  -webkit-backdrop-filter: blur(14px) saturate(1.2);
+}
+
+.glow-text {
+  text-shadow:
+    0 0 24px rgb(25 213 232 / 0.35),
+    0 0 2px rgb(243 250 255 / 0.4);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-cyan);
+  outline-offset: 3px;
+  border-radius: 10px;
+}
+
+.btn-primary {
+  background: linear-gradient(180deg, #35e0c1, #19d5e8);
+  color: #021b33;
+  box-shadow:
+    0 0 0 1px rgb(243 250 255 / 0.25) inset,
+    0 10px 30px -8px rgb(25 213 232 / 0.55);
+}
+.btn-primary:disabled {
+  filter: grayscale(0.8) brightness(0.6);
+  box-shadow: none;
+}
+
+input::placeholder {
+  color: rgb(243 250 255 / 0.38);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+@keyframes ray-sway {
+  0%,
+  100% {
+    transform: translateX(-2%) skewX(-12deg);
+    opacity: var(--ray-o, 0.5);
+  }
+  50% {
+    transform: translateX(3%) skewX(-8deg);
+    opacity: calc(var(--ray-o, 0.5) * 0.55);
+  }
+}
+@keyframes caustic {
+  0% {
+    background-position:
+      0 0,
+      40px 20px;
+  }
+  100% {
+    background-position:
+      300px 120px,
+      -260px 180px;
+  }
+}
+@keyframes sonar {
+  0% {
+    transform: scale(0.3);
+    opacity: 0.9;
+  }
+  100% {
+    transform: scale(2.4);
+    opacity: 0;
+  }
+}
+@keyframes drift {
+  from {
+    transform: translateX(-30vw);
+  }
+  to {
+    transform: translateX(130vw);
+  }
+}
+@keyframes bob {
+  0%,
+  100% {
+    transform: translateY(0) rotate(-1.5deg);
+  }
+  50% {
+    transform: translateY(-6px) rotate(1.5deg);
+  }
+}
+@keyframes pulse-lure {
+  0%,
+  100% {
+    opacity: 1;
+    filter: drop-shadow(0 0 6px #ffb45c);
+  }
+  50% {
+    opacity: 0.65;
+    filter: drop-shadow(0 0 14px #ffb45c);
+  }
+}
+.anim-bob {
+  animation: bob 3.6s ease-in-out infinite;
+}
+.anim-lure {
+  animation: pulse-lure 2.2s ease-in-out infinite;
+}

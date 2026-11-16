@@ -1,0 +1,75 @@
+# ABYSS — Animais e natureza
+categoria: Animais e natureza
+fonte: Mammal Diversity Database · Avibase · Reptile Database · Flora e Funga do Brasil (JBRJ)
+
+@ nat-mamifero
+enunciado: Mamífero
+revisao: revisado
+rejeitar: tubarão (é um peixe); pinguim (é uma ave); galinha (é uma ave); jacaré (é um réptil); cobra (é um réptil); sapo (é um anfíbio); tartaruga (é um réptil); avestruz (é uma ave)
+1: cachorro|cão|dog; gato|cat; leão|lion; elefante; cavalo; vaca|boi; macaco; baleia; golfinho; tigre; urso; rato; coelho; porco; ser humano|humano|homem|pessoa
+2: girafa; zebra; hipopótamo; rinoceronte; camelo; canguru; morcego; lobo; raposa; onça|onça-pintada|jaguar; ovelha|carneiro; cabra|bode; esquilo; panda; coala; gorila; chimpanzé; leopardo; guepardo|chita; hamster; capivara; tamanduá; preguiça; tatu; foca; orca; burro|jumento|asno; veado|cervo; búfalo; hiena
+3: urso-polar; lontra; castor; ornitorrinco; equidna; porco-espinho; ouriço|ouriço-cacheiro; toupeira; doninha; texugo; furão; gambá; quati; mico-leão-dourado; lhama; alpaca; anta; javali; alce; rena; bisão; antílope; gazela; gnu; orangotango; lêmure; suricato; morsa; peixe-boi; narval; beluga; cachalote; ocelote|jaguatirica; puma|onça-parda|suçuarana; lince; chinchila; porquinho-da-índia|cobaia|preá; mangusto; iaque; ocapi; elefante-marinho; leão-marinho; lobo-guará; diabo-da-tasmânia; vombate; marmota
+4: pangolim; aiai|aye-aye; tarsier|társio; dugongo; bugio|guariba; sagui|sagui-de-tufo-branco; ariranha; cutia; paca; irara; cuíca; caititu|cateto; queixada; serval; caracal; fenec|feneco|raposa-do-deserto; tamanduá-bandeira; tamanduá-mirim; uacari; muriqui|mono-carvoeiro; gibão; bonobo; mandril; babuíno; colobo; dromedário; vicunha; guanaco; tapir; facóquero|javali-africano; impala; kudu; órix; zebu; búfalo-asiático; tâmia; arganaz; degu; numbat; quoll; wallaby
+5: solenodonte; aardvark|porco-da-terra|oricteropo; saola; colugo|lêmure-voador; desmã; hirax|damão; zorrilha; binturongue; pika|ocotona; jerboa|gerbo; tenreque; muntíaco; dik-dik; gerenuque; quokka; bilby|bilbi; potoroo|potoru; rato-toupeira-pelado|heterocephalus; cacomistle; kinkajou|jupará; olinguito; preguiça-pigmeia; tuco-tuco; mão-pelada|guaxinim|raccoon
+
+@ nat-ave
+enunciado: Ave
+revisao: revisado
+rejeitar: morcego (é um mamífero); borboleta (é um inseto); abelha (é um inseto); peixe-voador (é um peixe); esquilo-voador (é um mamífero)
+1: galinha|galo; pato; papagaio; pombo|pomba; águia; coruja; pinguim; arara; beija-flor|colibri; tucano; pavão; avestruz
+2: periquito; canário; sabiá; bem-te-vi; urubu; gavião; falcão; peru; ganso; cisne; flamingo; pelicano; gaivota; andorinha; pardal; pica-pau; corvo; garça; cegonha; ema; calopsita; codorna; faisão; albatroz; quero-quero; joão-de-barro; condor
+3: seriema; tuiuiú|jaburu; maritaca|maitaca; jandaia; cardeal; sanhaço; tico-tico; curió; pintassilgo; azulão; trinca-ferro; coleiro|papa-capim; araponga; uirapuru; jacu; mutum; inhambu; anu|anu-preto; anu-branco; carcará; harpia|gavião-real; urubu-rei; colhereiro; socó; biguá; martim-pescador; maçarico; frango-d'água; saracura; galinha-d'angola|angolinha; marreco; pato-real; kiwi; casuar; emu; abutre; milhafre|milhano; cuco; rouxinol; melro; estorninho; tentilhão; pica-pau-de-cabeça-vermelha; arara-azul; arara-vermelha; cacatua; lóris; agapórnis|inseparável; mandarim; manon
+4: ararajuba; araçari; guará|guará-vermelho; garça-branca; savacu; jaçanã; tachã; carão; mergulhão; atobá; fragata|tesourão; trinta-réis; petrel; papagaio-do-mar|puffin; pinguim-imperador; pinguim-de-magalhães; bico-de-sapato; secretário|serpentário; marabu; ibis; kakapo; quetzal; ave-do-paraíso; ave-lira; tangará; dançador; galo-da-serra; choca; formigueiro; gralha-azul; gralha; pomba-rola|rolinha; juriti; asa-branca; urutau|mãe-da-lua; bacurau; corujinha-buraqueira|coruja-buraqueira; suindara|coruja-das-torres; tesourinha
+5: dodô; moa; arara-azul-de-lear; ararinha-azul; mutum-de-alagoas; pato-mergulhão; jacutinga; macuco; anambé; pavó; araponga-do-nordeste; saíra-sete-cores; tiê-sangue; pássaro-sino; cotinga; picoteiro; hoatzin|cigana; rabo-de-palha; noitibó; bico-grosso; alcatraz; abelharuco; poupa; papa-moscas; cucaburra|kookaburra; tiziu; sanã; jaó; tururim
+
+@ nat-reptil-anfibio
+enunciado: Réptil ou anfíbio
+revisao: revisado
+rejeitar: minhoca (é um anelídeo); enguia (é um peixe); ornitorrinco (é um mamífero); lesma (é um molusco)
+1: cobra|serpente; jacaré; crocodilo; tartaruga; lagarto; sapo; rã; camaleão; iguana; perereca
+2: jabuti; cágado; lagartixa; salamandra; jiboia; sucuri|anaconda; cascavel; jararaca; píton|python; naja|cobra-naja; tritão; dragão-de-komodo|komodo; teiú|teiú-gigante; gecko|geco; cobra-coral|coral
+3: surucucu; jararacuçu; cobra-cega|cecília; mamba-negra|mamba; víbora; cobra-real|cobra-rei; tartaruga-marinha; tartaruga-de-couro; tartaruga-gigante|tartaruga-de-galápagos; aligátor|alligator; gavial; calango; axolote|axolotl; sapo-cururu|cururu; rã-touro; dendrobata|sapo-flecha|sapinho-venenoso; jacaré-de-papo-amarelo; jacaré-açu; muçurana; caninana; cobra-d'água; anfisbena|cobra-de-duas-cabeças; monstro-de-gila
+4: tuatara; basilisco; dragão-barbudo|pogona; dragão-d'água; lagarto-de-gola|clamidossauro; moloch|diabo-espinhoso; cobra-cuspideira; cobra-do-mar|serpente-marinha; taipan; boomslang; cascavel-de-chifre; cobra-papagaio; jararaca-ilhoa; perereca-de-olhos-vermelhos; rã-dourada; rã-de-vidro; salamandra-gigante; olm|proteu; sapo-de-surinã|pipa; tartaruga-mordedora; tartaruga-aligátor; matamatá; tracajá; muçuã
+5: anolis; lagarto-cornudo; lagarto-monitor|varano; cobra-cipó; cobra-papa-pinto|papa-pinto; jiboia-arco-íris; lagartinho-de-linhares; pererequinha-de-bromélia; rã-de-darwin; sapo-pulga|brachycephalus; cobra-de-vidro; escinco|escincídeo; sapo-dourado; gimnofiono; cobra-lisa; tartaruga-de-orelha-vermelha|tigre-d'água
+
+@ nat-inseto
+enunciado: Inseto
+revisao: revisado
+rejeitar: aranha (é um aracnídeo); escorpião (é um aracnídeo); carrapato (é um aracnídeo); ácaro (é um aracnídeo); centopeia (é um miriápode); lacraia (é um miriápode); minhoca (é um anelídeo); caracol (é um molusco); tatuzinho (é um crustáceo); piolho-de-cobra (é um miriápode)
+1: formiga; abelha; mosca; mosquito|pernilongo|muriçoca; barata; borboleta; besouro; joaninha; gafanhoto; grilo; cupim
+2: vespa|marimbondo; libélula|lavadeira; vaga-lume|pirilampo; louva-a-deus; mariposa; cigarra; pulga; piolho; percevejo; traça; lagarta; bicho-pau; besouro-rinoceronte
+3: borrachudo; mutuca; mosca-varejeira|varejeira; besouro-hércules; escaravelho|rola-bosta; gorgulho|caruncho; vespa-mandarina; zangão|mamangava; abelha-jataí|jataí; tesourinha|lacrainha; formiga-cortadeira|saúva; formiga-bala|tocandira; formiga-de-fogo|lava-pés; cigarrinha; pulgão; cochonilha; bicho-da-seda; bicho-de-pé; barbeiro; aedes aegypti|aedes; anopheles; mosca-das-frutas|drosófila|drosophila; efemérida|efêmera; borboleta-monarca; borboleta-azul|morpho; esperança
+4: bicho-folha; tripes; formiga-leão; mosca-da-pedra|plecóptero; tricóptero; mosca-tsé-tsé|tsé-tsé; mosca-escorpião; serra-pau; besouro-bombardeiro; besouro-golias; besouro-titã; besouro-veado|lucano; gafanhoto-do-deserto; paquinha; jequitiranabóia|cobra-de-asa; cigarra-periódica; marimbondo-caboclo; formiga-tecelã; abelha-irapuá; abelha-mandaçaia; abelha-uruçu; pernilongo-palha|flebótomo|mosquito-palha
+5: peixinho-de-prata|lepisma; colêmbolo; proturo; dipluro; zoráptero; embióptero; mantofasmatódeo; inseto-pau-gigante; vespa-de-figo; mosca-ladra; neuróptero; megaloptera|megalóptero; estrepsíptero; formiga-pote-de-mel; besouro-tigre; barata-d'água|belostoma
+
+@ nat-arvore
+enunciado: Árvore
+revisao: revisado
+fonte: Flora e Funga do Brasil (JBRJ) · Lorenzi, Árvores Brasileiras
+rejeitar: rosa (é um arbusto); grama (é uma gramínea); alface (é uma hortaliça)
+1: pau-brasil; ipê; mangueira; coqueiro; pinheiro; carvalho; eucalipto; jabuticabeira; laranjeira; macieira; bananeira
+2: araucária|pinheiro-do-paraná; jacarandá; jequitibá; seringueira; castanheira|castanheira-do-pará; baobá; sequoia; cerejeira|sakura; oliveira; palmeira; abacateiro; goiabeira; cajueiro; limoeiro; pitangueira; cedro; mogno; figueira; salgueiro; bétula; abeto; bordo|ácer; flamboyant|flamboaiã; embaúba|imbaúba; buriti; açaizeiro; jatobá; aroeira; peroba
+3: pau-ferro; sibipiruna; quaresmeira; manacá-da-serra; paineira|barriguda; sumaúma|samaúma; angico; cumaru; copaíba; andiroba; imbuia; canela; louro; ingá; jenipapeiro; mangabeira; pequizeiro; umbuzeiro; cacaueiro; cupuaçuzeiro; tamarindeiro; amendoeira|chapéu-de-sol; tipuana; teca; plátano; faia; freixo; olmo; choupo|álamo; tília; castanheiro; nogueira; aveleira; cipreste; teixo; larício|lariço; zimbro; magnólia; acácia; ficus; carnaúba; babaçu; juçara|palmito-juçara; pupunheira
+4: sapucaia; jequitibá-rosa; guapuruvu; jacarandá-da-bahia; pau-mulato; garapeira; cambará; ipê-amarelo; ipê-roxo; ipê-branco; aroeira-pimenteira; pau-santo; barbatimão; murici; araticum; baru; caviúna; sucupira; mulungu; eritrina; chichá; cagaita; sangra-d'água; jacarandá-mimoso; pau-de-balsa|pau-de-jangada; dragoeiro|árvore-do-dragão|dracena-dragão; sândalo; ébano; pau-rosa; mangue-vermelho|mangue; sequoia-gigante; ginkgo|ginkgo biloba; araucária-de-norfolk
+5: pinheiro-bristlecone|pinus longaeva; wollemia|pinheiro-de-wollemi; árvore-de-sangue-de-dragão; cabreúva; jequitibá-branco; guatambu; canjerana; cedro-rosa; massaranduba; maçaranduba; angelim-vermelho; tatajuba; muirapiranga; pau-marfim; bacuri; uxi; piquiá
+
+@ nat-flor
+enunciado: Flor
+revisao: revisado
+fonte: Royal Horticultural Society · Flora e Funga do Brasil
+1: rosa; margarida; girassol; tulipa; orquídea; lírio; cravo; violeta; hortênsia; jasmim
+2: crisântemo; begônia; azaleia; gérbera; lavanda|alfazema; dália; camélia; magnólia; lótus|flor-de-lótus; vitória-régia; hibisco; buganvília|primavera|três-marias; amor-perfeito; copo-de-leite; gardênia; íris; antúrio; bromélia; petúnia; papoula; dente-de-leão; flor-de-cerejeira|sakura; ipê
+3: narciso; jacinto; gladíolo|palma-de-santa-rita; gerânio; lisianto; frésia; ave-do-paraíso|estrelítzia; helicônia; calêndula; cravina; mosquitinho|gipsofila; boca-de-leão; amarílis|açucena; flor-de-maio; kalanchoe|calanchoê; maria-sem-vergonha|beijo; onze-horas; manacá; dama-da-noite; madressilva; glicínia; flor-de-lis; edelvais|edelweiss; não-me-esqueças|miosótis; ranúnculo; anêmona; peônia; zínia; cosmos|cosmo; malva; verbena; lantana|camará; ixora; gloriosa; caliandra|esponjinha; jacarandá; flamboyant|flamboaiã
+4: protea|próteas; flor-cadáver|raflésia|rafflesia; amorphophallus|jarro-titã; cattleya|catleia; vanda; heliotrópio; alstroemeria|astromélia; cravo-de-defunto|tagete; clívia; agapanto; lírio-do-vale; campânula; dedaleira|digitalis; acônito; tremoço|lupino; esporinha|delfínio; ervilha-de-cheiro; capuchinha|chagas; brinco-de-princesa|fúcsia; flor-de-cera|hoya; rosa-do-deserto|adênio; sapatinho-de-judia; flor-de-maracujá|passiflora
+5: orquídea-fantasma; orquídea-macaco|dracula simia; flor-de-chocolate|cosmos atrosanguineus; puya raimondii|rainha-dos-andes; bico-de-papagaio|poinsétia; strongylodon|jade-azul|trepadeira-de-jade; ixia; cróco|açafrão-de-outono; heléboro|rosa-de-natal; lírio-tigre; scabiosa|escabiosa; nigela|dama-entre-verdes; gazânia; ásclépia|oficial-de-sala
+
+@ nat-fauna-brasileira
+enunciado: Animal da fauna brasileira (nativo)
+revisao: revisado
+fonte: ICMBio — Livro Vermelho da Fauna Brasileira · SiBBr
+rejeitar: leão (é africano); girafa (é africana); elefante (não é nativo do Brasil); canguru (é australiano); zebra (é africana); tigre (é asiático); panda (é chinês); urso (não há ursos nativos no Brasil); camelo (não é nativo); pombo (espécie introduzida); pardal (espécie introduzida)
+1: onça-pintada|onça|jaguar; capivara; tucano; arara; mico-leão-dourado; tamanduá|tamanduá-bandeira; preguiça|bicho-preguiça; jacaré; boto-cor-de-rosa|boto; lobo-guará; tatu; papagaio
+2: anta; sucuri|anaconda; jabuti; quati; macaco-prego; bugio|guariba; sagui|mico; ariranha; tatu-bola; tatu-canastra; ema; seriema; tuiuiú|jaburu; arara-azul; peixe-boi; jiboia; jaguatirica; suçuarana|onça-parda|puma; gambá|saruê|mucura; paca; cutia; pirarucu; piranha; beija-flor; sabiá; quero-quero; joão-de-barro; tamanduá-mirim
+3: muriqui|mono-carvoeiro; uacari; macaco-aranha|coatá; cuxiú; caititu|cateto; queixada; cervo-do-pantanal; veado-campeiro; irara; cachorro-vinagre; gato-maracajá; gato-do-mato; ouriço-cacheiro|coandu; preá; mocó; tapiti; cuíca; jupará; harpia|gavião-real; urubu-rei; mutum; jacu; ararajuba; ararinha-azul; arara-vermelha; guará|guará-vermelho; carcará; jacaré-açu; jacaré-de-papo-amarelo; tracajá; tartaruga-da-amazônia; surucucu; jararaca; cascavel; poraquê; tambaqui; tucunaré; dourado; pintado|surubim; sapo-cururu; perereca; boto-cinza; toninha; tartaruga-de-couro
+4: sauim-de-coleira; mico-leão-preto; mico-leão-da-cara-dourada; macaco-de-cheiro; parauacu; zogue-zogue|guigó; tatu-de-rabo-mole; tamanduaí; preguiça-de-coleira; gato-palheiro; cachorro-do-mato|graxaim; raposa-do-campo; furão-pequeno; lontra|lontra-neotropical; pato-mergulhão; mutum-de-alagoas; jacutinga; macuco; galo-da-serra; uirapuru; araponga; saíra-sete-cores; tiê-sangue; arara-azul-de-lear; jararaca-ilhoa; sapo-pulga|brachycephalus; pererequinha-de-bromélia; candiru; peixe-boi-amazônico
+5: ouriço-preto; soldadinho-do-araripe; formigueiro-do-litoral; rolinha-do-planalto; bicudinho-do-brejo; lagartinho-de-linhares; tartaruga-de-pente; peixe-anual|peixe-das-nuvens; tatuí|tatuíra; rato-de-espinho; cuíca-d'água|cuíca-de-água; preguiça-real|preguiça-de-dois-dedos; macaco-uacari-branco|uacari-branco

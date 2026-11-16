@@ -1,0 +1,15 @@
+# Render Blueprint — sobe servidor + jogo num único link (https://<nome>.onrender.com)
+services:
+  - type: web
+    name: abyss
+    runtime: node
+    plan: free
+    buildCommand: npm install --include=dev && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: 22.12.0
+      # Opcional: só se o cliente também estiver na Vercel (separe vários por vírgula)
+      # - key: CORS_ORIGIN
+      #   value: https://seu-projeto.vercel.app

@@ -1,0 +1,73 @@
+# ABYSS — Conhecimentos gerais
+categoria: Conhecimentos gerais
+
+@ cg-cor
+enunciado: Cor
+fonte: Dicionário Houaiss · lista de cores HTML/CSS (W3C)
+revisao: revisado
+1: vermelho; azul; verde; amarelo; preto; branco; rosa; roxo; laranja; marrom; cinza
+2: violeta; lilás; bege; dourado; prateado; turquesa; vinho|bordô; magenta; ciano; anil|índigo; creme; salmão; caramelo; azul-marinho|marinho; verde-limão; verde-musgo; pink; fúcsia; grafite; off-white; nude
+3: carmim; escarlate; púrpura; ocre; sépia; terracota; ferrugem; mostarda; cáqui; oliva|verde-oliva; esmeralda; jade; safira; rubi; âmbar; coral; pêssego; marfim; pérola; chumbo; cobre; bronze; areia; chocolate; café; castanho; cereja; framboesa; berinjela; lavanda; malva; açafrão; ouro; lima; menta|verde-menta; água-marinha; petróleo|azul-petróleo; celeste|azul-celeste; azul-royal|azul-real; azul-bebê; cobalto|azul-cobalto; tiffany|azul-tiffany
+4: vermelhão|cinábrio; carmesim; amaranto; ultramarino|azul-ultramarino; cerúleo; ametista; zinabre|verdete|verde-zinabre; chartreuse; siena|terra-de-siena; úmbria|sombra; alizarina; heliotrópio; taupe; ardósia; antracite; champanhe; verde-garrafa; verde-bandeira; verde-água; azul-piscina; azul-prussiano|azul-da-prússia; amarelo-canário; amarelo-ouro; rosa-chá; rosa-bebê; rosa-choque; cor-de-burro-quando-foge
+5: isabelino|isabel; glauco; garança; púrpura-de-tiro|púrpura tíria; azul-klein|international klein blue; vantablack; verde-paris; verde-scheele; lazúli|lápis-lazúli; xanadu; fulvo; zarcão; bistre; flavo; rútilo; argênteo
+
+@ cg-forma-geometrica
+enunciado: Forma geométrica
+fonte: Dicionário de Geometria — SBM
+revisao: revisado
+1: quadrado; círculo; triângulo; retângulo; esfera; cubo; pentágono; hexágono
+2: losango; trapézio; oval|elipse; cilindro; cone; pirâmide; octógono; paralelogramo; estrela; coração; semicírculo; prisma; heptágono
+3: decágono; eneágono; dodecágono; tetraedro; octaedro; dodecaedro; icosaedro; paralelepípedo; hemisfério; toro|rosquinha; elipsoide; deltoide|pipa; circunferência; polígono; poliedro; triângulo equilátero; triângulo isósceles; triângulo escaleno; triângulo retângulo; quadrilátero; setor circular; coroa circular|anel; arco
+4: hendecágono|undecágono; icoságono; tronco de cone; tronco de pirâmide; paraboloide; hiperboloide; cuboctaedro; icosidodecaedro; antiprisma; romboedro; trapezoedro; bipirâmide; cardioide; lemniscata; espiral; hélice; catenoide; esferoide; cunha; lúnula
+5: fita de möbius|möbius; garrafa de klein; triângulo de reuleaux|reuleaux; tesserato|hipercubo; gömböc; triângulo de sierpinski; floco de neve de koch|koch; superelipse; astroide; rombicuboctaedro; icosaedro truncado; dodecaedro rômbico; oloide; ciclóide; trocoide; nefroide; quiliágono|quilógono
+
+@ cg-unidade-medida
+enunciado: Unidade de medida
+fonte: BIPM — Sistema Internacional de Unidades (SI) · INMETRO
+revisao: revisado
+1: metro; quilograma|quilo|kg; litro; segundo; centímetro|cm; grama; quilômetro|km; hora; minuto
+2: milímetro|mm; mililitro|ml; tonelada; grau|graus celsius|celsius; polegada; pé; milha; jarda; libra; onça; caloria|cal; quilocaloria|kcal; watt; volt; ampère|amper; hertz|hz; byte; bit; megabyte|mb; gigabyte|gb; hectare|ha; dia; semana; ano; mês
+3: kelvin; newton; joule; pascal|pa; ohm; coulomb; mol; candela; lúmen; lux; quilowatt-hora|kwh; cavalo-vapor|cv; horsepower|hp; atmosfera|atm; bar; nó; légua; alqueire; arroba; quilate; ano-luz; decibel|db; terabyte|tb; kilobyte|kb; fahrenheit; galão; metro quadrado|m2; metro cúbico|m3; década; século; milênio; quilohertz|khz; megahertz|mhz; gigahertz|ghz; radiano; milibar; mícron|micrômetro; nanômetro|nm
+4: farad; henry; tesla; weber; siemens; becquerel; gray; sievert; katal; esterradiano; parsec; unidade astronômica|ua; angstrom; braça; palmo; côvado; vara; furlong; pinta; onça fluida; grão; dracma; libra-força; dina; erg; gauss; maxwell; poise; stokes; torr; mmhg|milímetro de mercúrio; rankine; btu; eletronvolt|ev; dalton; curie; röntgen|roentgen; rem; barril; nanossegundo; femtômetro|fermi
+5: barn; slug; shake; jiffy; smoot; mil|thou; rod|perca; chain|corrente de gunter; stone; hundredweight|quintal; pé-vela|foot-candle; nit; debye; jansky; oersted; gilbert; abampère; statcoulomb; planck|tempo de planck; comprimento de planck; morgen; tsubo; tael; catty|cate; ri
+
+@ cg-idioma
+enunciado: Idioma falado no mundo
+fonte: Ethnologue · ISO 639
+revisao: revisado
+rejeitar: brasileiro (o idioma do Brasil é o português); mexicano (o idioma do México é o espanhol); americano (o idioma dos EUA é o inglês); argentino (o idioma é o espanhol)
+1: português; inglês; espanhol|castelhano; francês; alemão; italiano; japonês; chinês|mandarim
+2: russo; árabe; coreano; hindi; holandês|neerlandês; grego; latim; hebraico; turco; sueco; polonês; libras|língua brasileira de sinais; tupi|tupi-guarani; guarani; esperanto; cantonês
+3: norueguês; dinamarquês; finlandês; islandês; tcheco|checo; húngaro; romeno; búlgaro; ucraniano; sérvio; croata; esloveno; eslovaco; albanês; lituano; letão; estoniano; catalão; galego; basco|euskera; irlandês|gaélico irlandês; galês; escocês|gaélico escocês; persa|farsi; urdu; bengali; punjabi|panjabi; tâmil; telugo|telugu; vietnamita; tailandês|thai; indonésio; malaio; filipino|tagalo|tagalog; suaíli|swahili; zulu; africâner|afrikaans; amárico; iorubá|yoruba; quíchua|quéchua; náuatle|nahuatl; aimará; crioulo haitiano|crioulo; sânscrito; iídiche; armênio; georgiano; mongol; tibetano; nepalês|nepali; cazaque; uzbeque; curdo; pachto|pashto
+4: hauçá|hausa; igbo; xhosa; somali; malgaxe; quiniaruanda|kinyarwanda; lingala; quimbundo|kimbundu; umbundo; tétum; maori; havaiano; samoano; tonganês; fijiano; inuktitut; cherokee; navajo; lacota|lakota; yanomami; kaingang; ticuna; terena; xavante; nheengatu|língua geral amazônica; occitano; bretão; córnico; frísio; luxemburguês; maltês; feroês; sardo; romanche; corso; bielorrusso; macedônio; bósnio; azeri|azerbaijano; tártaro; quirguiz; tadjique; turcomeno; khmer|cambojano; laosiano|lao; birmanês; cingalês; maratí|marathi; guzerate|gujarati; canarês|kannada; malaiala|malayalam; javanês; sundanês; uigur; manchu
+5: ainu; sami|lapão; livônio; manês; ladino|judeu-espanhol; aramaico; copta; siríaco; sumério; acadiano; hitita; etrusco; gótico; nórdico antigo; inglês antigo|anglo-saxão; provençal; klingon; quenya|élfico; dothraki; toki pona; volapük; interlíngua; pirahã; dirbal|dyirbal; silbo gomero|silbo; tuvano; yupik; groenlandês|kalaallisut; chamorro; papiamento; sranan tongo; tok pisin; bislama; hiri motu
+
+@ cg-moeda
+enunciado: Moeda (dinheiro de um país, atual ou histórica)
+fonte: ISO 4217 · Banco Central do Brasil
+revisao: revisado
+1: real; dólar|dolar americano|usd; euro; libra|libra esterlina; iene|yen; peso
+2: peso argentino; peso mexicano; franco suíço|franco; yuan|renminbi; rublo; rúpia; won; cruzeiro; cruzado; bitcoin; guarani; escudo
+3: dólar canadense; dólar australiano; peso chileno; peso colombiano; peso uruguaio; boliviano; sol|novo sol; bolívar; lira turca|lira; rand; dirham; riyal|rial; shekel|novo shekel; coroa sueca|coroa; coroa norueguesa; coroa dinamarquesa; zloty; forint; leu; lev; baht; ringgit; rúpia indonésia; dong; dinar; marco alemão|marco; franco francês; peseta; dracma; florim; cruzeiro real; cruzado novo; réis|mil-réis; lira italiana; ducado; dobrão; denário; sestércio
+4: kwanza; metical; naira; cedi; xelim|shilling; birr; dalasi; ariary; kwacha; libra egípcia; quetzal; colón; córdoba; lempira; balboa; gourde; dólar jamaicano; dólar de hong kong; dólar taiwanês; dólar de singapura; dólar neozelandês; rúpia paquistanesa; taka; afegane; tenge; som; somoni; manat; lari; dram; hryvnia; rublo bielorrusso; kuna; tolar; litas; lats; coroa estoniana; coroa tcheca; coroa islandesa; kip; kyat; riel; tugrik; pataca; pula; loti; lilangeni; ouguiya; dobra; nakfa; ngultrum; rufiyaa; vatu; pa'anga; tala; kina
+5: peso cubano conversível|cuc; vintém; tostão; zimbabwe dólar|dólar zimbabuano; tálero|thaler; florim de ouro; solidus|soldo; óbolo; talento; siclo; ecu; ethereum|ether; dogecoin; libra-ouro; escudo cabo-verdiano; franco cfa; dinar kuwaitiano; rial omanense; dinar bareinita
+
+@ cg-data-comemorativa
+enunciado: Data comemorativa ou feriado
+fonte: Calendário oficial de feriados (Lei 662/1949 e posteriores) · UNESCO/ONU — dias internacionais
+revisao: revisado
+1: natal; ano-novo|réveillon|confraternização universal; carnaval; páscoa; dia das mães; dia dos pais; dia das crianças; dia dos namorados
+2: independência do brasil|sete de setembro|dia da independência; tiradentes; dia do trabalho|dia do trabalhador|primeiro de maio; proclamação da república|15 de novembro; nossa senhora aparecida|dia da padroeira; finados|dia de finados; corpus christi; sexta-feira santa|paixão de cristo; halloween|dia das bruxas; dia da mulher|dia internacional da mulher; dia do professor; consciência negra|dia da consciência negra|dia de zumbi; festa junina|são joão; dia de ação de graças|thanksgiving; dia dos avós; dia do amigo; aniversário
+3: dia de reis|epifania; quarta-feira de cinzas; dia do índio|dia dos povos indígenas; dia do meio ambiente; dia da terra; dia do saci; dia do folclore; dia do livro; dia da árvore; dia do estudante; dia do médico; dia do nordestino; dia do orgulho lgbt|parada lgbt; hanukkah|chanucá; yom kipur; rosh hashaná; ramadã|ramadan; eid al-fitr|festa do fim do ramadã; diwali; ano-novo chinês|festival da primavera; dia de são patrício|saint patrick; quatro de julho|independência dos estados unidos; dia da bastilha|queda da bastilha; dia dos mortos|día de muertos; black friday; dia de são valentim|valentine's day; dia da abolição|13 de maio|abolição da escravatura; dia do descobrimento|descobrimento do brasil; dia da bandeira; dia do soldado; dia de são jorge; dia de cosme e damião|cosme e damião; círio de nazaré; lavagem do bonfim; festa de iemanjá|dois de fevereiro
+4: dia do pi; dia da toalha; dia de star wars|may the fourth; dia do programador; dia mundial da saúde; dia mundial da água; dia internacional da paz; dia dos direitos humanos; dia da mentira|primeiro de abril; dia do circo; dia do rock; dia do teatro; dia do cinema brasileiro; dia do samba; dia do frevo; holi; vesak; songkran; obon; hanami; tanabata; kwanzaa; purim; pessach|páscoa judaica; sukkot; shavuot; nowruz|norouz; oktoberfest; tomatina|la tomatina; dia de guy fawkes|noite das fogueiras; dia da austrália; dia de anzac; boxing day; dia de colombo; dia da revolução constitucionalista|9 de julho; data magna de pernambuco; dois de julho|independência da bahia; revolução farroupilha|20 de setembro
+5: dia do orgulho autista; dia do pão de queijo; dia do hambúrguer; dia do chocolate; dia do café; dia do gato; dia do cachorro; dia da preguiça; dia do abraço; dia do disco voador|dia do ufo; dia da marmota|groundhog day; festa do divino; bumba meu boi|festa do boi; parintins|festival de parintins; cavalhadas; congada|congado; folia de reis; festa do peão|festa do peão de barretos; festa da uva; dia de são cristóvão; sábado de aleluia|aleluia; malhação de judas
+
+@ cg-transporte
+enunciado: Meio de transporte
+fonte: Código de Trânsito Brasileiro · ANTT · ANAC
+revisao: revisado
+1: carro|automóvel; ônibus; avião; bicicleta|bike; moto|motocicleta; trem; navio; barco; metrô; caminhão; táxi
+2: helicóptero; patinete; skate; van; caminhonete|picape; bonde; teleférico; balsa; lancha; canoa; jangada; carroça; cavalo; foguete; submarino; triciclo; caiaque; trator; ambulância; vlt|veículo leve sobre trilhos; jet ski|moto aquática; patins
+3: dirigível|zepelim; balão|balão de ar quente; asa-delta; parapente; planador; hovercraft|aerodeslizador; monotrilho; trem-bala|trem de alta velocidade; bondinho; funicular; iate; veleiro; catamarã; transatlântico|cruzeiro; rebocador; petroleiro; porta-aviões; navio cargueiro|cargueiro; gôndola; escuna; caravela; nau; galeão; carruagem; diligência; charrete; riquixá; tuk-tuk; segway; monociclo; hoverboard; quadriciclo; buggy; motoneta|lambreta|scooter; mobilete|ciclomotor; trenó; snowmobile|motoneve; esqui; elevador; escada rolante; esteira rolante
+4: ônibus espacial; cápsula espacial; módulo lunar; jipe lunar|rover; hyperloop; maglev; jetpack; girocóptero|autogiro; ultraleve; hidroavião; tiltrotor|convertiplano; drone de passageiros|evtol; trólebus|tróleibus; brt|ônibus articulado; biarticulado; jardineira; pau de arara; motocarro|motocarga; carro de boi; liteira|palanquim; camelo; elefante; burro; dromedário; bote; gaiola|barco gaiola; voadeira; chalana; saveiro; batelão; dhow|daú; junco; sampana; trirreme; drakkar|barco viking; batiscafo; batisfera
+5: velocípede; penny-farthing|biciclo; draisiana; kart; aerobarco|hidrofólio; ekranoplano; skate elétrico; monociclo elétrico; cadeira de rodas; pedalinho; tandem; telesqui; tirolesa; trenó puxado por cães|mushing; ciclorriquixá; ubá; igarité; montaria

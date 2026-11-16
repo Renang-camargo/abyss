@@ -1,0 +1,57 @@
+# ABYSS — Frutas e vegetais
+categoria: Frutas e vegetais
+fonte: Embrapa · Flora e Funga do Brasil (JBRJ) · Ceagesp
+
+@ fru-fruta
+enunciado: Fruta
+revisao: revisado
+rejeitar: batata (é um tubérculo); cenoura (é uma raiz); alface (é uma hortaliça)
+1: banana; maçã; laranja; uva; morango; abacaxi; manga; melancia; mamão|papaia; limão; pera; abacate
+2: kiwi; goiaba; maracujá; melão; caju; coco; acerola; jabuticaba; açaí; cereja; pêssego; ameixa; framboesa; amora; mirtilo|blueberry; figo; romã; tangerina|mexerica|bergamota|mimosa|poncã|ponkan; lima; caqui; carambola; pitaya|fruta-do-dragão; graviola; pitanga; cupuaçu; fruta-do-conde|pinha|ata; jaca; tamarindo; cajá; seriguela|siriguela|ciriguela; umbu|imbu; pequi; buriti; jenipapo; damasco; nectarina; lichia; tâmara; groselha; physalis|fisális; mangaba; murici; bacuri; cacau; tomate
+3: cambuci; cambucá; uvaia; grumixama; araçá; cereja-do-rio-grande; feijoa|goiaba-serrana; guabiroba; gabiroba; butiá; jerivá; araticum; marolo; cagaita; baru; mangostão; rambutã; durian|durião; longana; salak|fruta-cobra; atemoia; cherimoia; sapoti; sapota|sapota-do-solimões; abiu; bacaba; patauá; tucumã; pupunha; camu-camu; taperebá; ingá; jatobá; macaúba|bocaiúva; licuri; cajá-manga|cajarana; jambo; jamelão|jambolão; pitomba; puçá; araçá-boi; biribá; cupuí; murumuru; uxi; bacupari; mamey|sapote-mamey; noni; marmelo; nêspera|ameixa-amarela; kinkan|kumquat; toranja|grapefruit|pomelo; cidra; lima-da-pérsia; limão-siciliano; limão-cravo|limão-rosa; limão-taiti|limão tahiti; laranja-pera; laranja-bahia|laranja-de-umbigo; laranja-lima; maçã-verde; uva-passa|passa; cranberry|oxicoco; amora-preta; groselha-preta|cassis; sabugueiro; azeitona|oliva; figo-da-índia|palma; kiwano|melão-de-chifre; maracujá-doce; maracujá-do-mato; fruta-pão; pitaya-amarela; ameixa-de-madagascar|ameixa-do-pará
+4: ubajaí; sete-capotes; guabiju; araçá-piranga; pêra-do-campo; mama-cadela; murta; umbu-cajá; juá; mari|umari; cutite; inajá; pajurá; abricó-do-pará|abricó; mapati|uva-da-amazônia; cubiu|maná-cubiu; lingonberry; cloudberry; boysenberry; loganberry; marionberry; akebia; pawpaw|asimina; jujuba|jujube; ackee; lucuma; pepino-doce|pepino dulce; tamarillo|tomate-de-árvore; naranjilla|lulo; santol; langsat; duku; marang; cempedak; bael; wood apple; ber; phalsa; karonda; amla|groselha-indiana
+
+@ fru-legume-verdura
+enunciado: Legume, verdura ou hortaliça
+fonte: Embrapa Hortaliças · Ceagesp
+revisao: revisado
+1: alface; cenoura; batata; tomate; cebola; brócolis; couve; abobrinha; pepino; repolho; beterraba; chuchu; abóbora|jerimum
+2: berinjela; pimentão; espinafre; rúcula; agrião; couve-flor; quiabo; vagem; mandioca|aipim|macaxeira; batata-doce; inhame; cará; mandioquinha|batata-baroa|batata-salsa; rabanete; nabo; milho|milho-verde; ervilha; alho-poró; aspargo; alcachofra; acelga; almeirão; chicória; escarola; salsão|aipo; maxixe; jiló; palmito; cogumelo; champignon; shimeji; shitake|shiitake; couve-de-bruxelas; repolho roxo; broto de feijão|moyashi; gengibre; alho; abóbora cabotiá|cabotiá|abóbora japonesa
+3: taioba; ora-pro-nóbis; bertalha; serralha; beldroega; caruru; vinagreira|hibisco; jambu; batata yacon|yacon; tupinambo|alcachofra-de-jerusalém; nabo japonês|daikon; pastinaca|cherovia; salsifi; funcho|erva-doce; couve-rábano|kohlrabi; couve-chinesa|acelga chinesa|pak choi|bok choy; mostarda|folha de mostarda; mizuna; kale|couve kale; endívia; radicchio; azedinha; abóbora-moranga|moranga; abóbora-de-pescoço; tomate-cereja; feijão-de-corda|feijão-verde; fava; soja|edamame; portobello; trufa; alcaparra; brotos de bambu|broto de bambu; raiz de lótus|lótus; castanha-d'água; taro; konjac; araruta; cará-do-ar
+4: capuchinha; peixinho-da-horta; picão; dente-de-leão; tanchagem; urtiga; flor de bananeira|mangará|coração de bananeira; palma|palma forrageira|nopal; jurubeba
+
+@ fru-nativa
+enunciado: Fruta nativa do Brasil
+fonte: Embrapa · Lorenzi, Frutas Brasileiras e Exóticas Cultivadas · Flora e Funga do Brasil
+revisao: revisado
+rejeitar: banana (é originária da Ásia); maçã (é originária da Ásia); manga (é originária da Ásia); laranja (é originária da Ásia); uva (não é nativa); morango (não é nativo do Brasil); melancia (é africana); kiwi (é originário da China); coco (o coqueiro não é nativo do Brasil)
+1: açaí; jabuticaba; caju; maracujá; goiaba; cupuaçu; pitanga; abacaxi
+2: guaraná; pequi; buriti; cajá; umbu|imbu; mangaba; murici; bacuri; jenipapo; araticum; uvaia; cambuci; grumixama; araçá; cereja-do-rio-grande; feijoa|goiaba-serrana; guabiroba|gabiroba; butiá; cagaita; baru; pupunha; tucumã; bacaba; patauá; camu-camu; taperebá; ingá; jatobá; cacau; castanha-do-pará|castanha-do-brasil; licuri; macaúba|bocaiúva; pinhão
+3: cambucá; abiu; biribá; cupuí; murumuru; uxi; bacupari; sapota-do-solimões; araçá-boi; puçá; pitomba; mandacaru|fruto do mandacaru; marolo; jerivá; guabiju; sete-capotes; ubajaí; araçá-piranga; pêra-do-campo; juá; umbu-cajá; mari|umari; inajá; pajurá; abricó-do-pará|abricó; mapati|uva-da-amazônia; cubiu|maná-cubiu; bacurizinho; mama-cadela; jaracatiá; chichá; saputá; gravatá; bacuripari; cutite; ucuqui; piquiá; cajuí; cambuí; pitangatuba; jabuticaba-branca
+
+@ fru-citrica
+enunciado: Fruta cítrica (gênero Citrus e parentes)
+fonte: Embrapa Mandioca e Fruticultura — Banco Ativo de Germoplasma de Citros
+revisao: revisado
+rejeitar: maracujá (é ácido, mas não é cítrico); abacaxi (é ácido, mas não é cítrico); kiwi (não é cítrico); morango (não é cítrico); acerola (não é cítrica)
+1: laranja; limão; tangerina|mexerica|bergamota|mimosa; lima
+2: limão-taiti|limão tahiti; limão-siciliano; laranja-pera; laranja-lima; laranja-bahia|laranja de umbigo; poncã|ponkan; murcote|murcott; toranja|grapefruit; pomelo; cidra; kinkan|kumquat|laranja kinkan; lima-da-pérsia; laranja-da-terra|laranja-amarga|laranja-azeda; clementina
+3: limão-galego; laranja-natal; laranja-valência|valência; laranja-sanguínea|laranja-moro|moro; laranja-cara-cara|cara cara; tangor; tangelo; mineola; satsuma; yuzu; sudachi; kabosu; calamansi|calamondin; limão-kaffir|kaffir|combava; limão-meyer|meyer; finger lime|limão-caviar; mão-de-buda|cidra mão-de-buda; limequat; orangequat; citrange
+4: dekopon|shiranui; amanatsu; hassaku; iyokan; ugli; oroblanco; jabara; mikan; natsumikan; hyuganatsu; tachibana; chinotto; papeda; ichang papeda|ichang; citrumelo; poncirus|laranja-trifoliata|trifoliata; rangpur|limão-rangpur; limeta|lima-doce; etrog
+
+@ fru-cereal
+enunciado: Cereal, grão ou leguminosa
+fonte: FAO — FAOSTAT (culturas agrícolas)
+revisao: revisado
+1: arroz; feijão; milho; trigo; soja; aveia; lentilha; grão-de-bico; ervilha
+2: cevada; centeio; quinoa|quinua; chia; linhaça; sorgo; painço|milheto; fava; feijão-preto; feijão-carioca; feijão-fradinho|feijão-de-corda; feijão-branco; feijão-vermelho; feijão-azuki|azuki; amendoim; gergelim; girassol|semente de girassol; amaranto; trigo-sarraceno|trigo mourisco; arroz integral; arroz selvagem; arroz arbóreo; arroz basmati|basmati; triguilho|trigo para quibe|bulgur; sêmola; pipoca|milho de pipoca; tremoço; feijão-guandu|guandu|andu; feijão-de-lima|fava-de-lima; lentilha vermelha
+3: espelta; kamut|trigo khorasan; farro|emmer; einkorn; teff; fonio; triticale; arroz negro|arroz preto; arroz vermelho; arroz cateto; feijão-jalo; feijão-rajado; feijão-bolinha; feijão-manteiga; feijão-rosinha; feijão-roxinho; feijão-canário; feijão-de-porco; feijão-mulatinho; feijão-caupi|caupi; feijão-urd|urad; lablab|feijão-lablab; mucuna; guar; alfafa; chícharo|ervilhaca; alfarroba; milho-roxo; psyllium|psílio; cânhamo|semente de cânhamo
+
+@ fru-oleaginosa
+enunciado: Castanha, noz ou oleaginosa
+fonte: Embrapa · International Nut and Dried Fruit Council (INC)
+revisao: revisado
+rejeitar: 
+1: castanha-do-pará|castanha-do-brasil; castanha de caju; amendoim; amêndoa; noz; avelã; pistache|pistacho
+2: macadâmia; noz-pecã|pecã; castanha portuguesa|castanha europeia; pinhão; coco; baru; pinoli|pinhão italiano|semente de pinheiro; gergelim; linhaça; semente de girassol|girassol; semente de abóbora; chia; cacau|amêndoa de cacau
+3: sapucaia; licuri; pequi|castanha de pequi; noz-de-cola|cola|obi; noz-de-areca|areca; castanha-d'água; chufa|junça|tigernut; amêndoa tropical|castanhola|chapéu-de-sol; noz-negra; butternut; hickory; noz-de-ginkgo|ginkgo; pili|noz-pili; kukui|noz-de-vela|noz-da-índia; mongongo; marula; karité|noz-de-karité; argan|argânia; sacha inchi; babaçu; cumaru|fava tonka; castanha-de-cutia; bunya
